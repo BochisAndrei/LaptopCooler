@@ -12,4 +12,5 @@ In the java part we have two major classes:
 - GestiuneTemp.java
 
 ArduinoSerial.java contains the code necessary for the connection to the Serial port and to copy the data from there.
+
 GestiuneTemp.java contains the interface that will display the data with a thread.
